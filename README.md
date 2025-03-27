@@ -52,8 +52,8 @@
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merlincod&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlincod&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=7joris&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7joris&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="49%"/>
 </div>
 
 ---
