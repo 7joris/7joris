@@ -6,8 +6,8 @@
 Hi :wave:, I'm 7Joris !
 </h1>
 <pre>
-    :book: <strong>Self-taught</strong> developer
-    :computer: I’m currently working on my<strong> TOP SECRET Project</strong>
-    :mailbox: How to reach me <strong>7joris@proton.me</strong>
+    📕 <strong>Self-taught</strong> developer
+    💻 I’m currently working on my<strong> TOP SECRET Project</strong>
+    📥 How to reach me <strong>7joris@proton.me</strong>
 </pre>
 </div>
