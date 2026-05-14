@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3loMGR3d2hvbGtrbmRzMjF6N3MyY2phMTJtYzl0b3A3ZGpvYW9qNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OzUCnzwGrbG4PmMUUr/giphy.gif">
 
-<!--
-**7joris/7joris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+<h1>
+Hi :wave:, I'm 7Joris !
+</h1>
+<pre>
+    :book: <strong>Self-taught</strong> developer
+    :computer: I’m currently working <strong>Secret Project</strong>
+    :mailbox: How to reach me <strong>7joris@proton.me</strong>
+</pre>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7joris&show_icons=true&locale=en&theme=dark" alt="7joris" /></p>
+</div>
