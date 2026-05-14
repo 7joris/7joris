@@ -7,7 +7,7 @@ Hi :wave:, I'm 7Joris !
 </h1>
 <pre>
     :book: <strong>Self-taught</strong> developer
-    :computer: I’m currently working on my<strong>TOP SECRET Project</strong>
+    :computer: I’m currently working on my<strong> TOP SECRET Project</strong>
     :mailbox: How to reach me <strong>7joris@proton.me</strong>
 </pre>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7joris&show_icons=true&locale=en&theme=dark" alt="7joris" /></p>
